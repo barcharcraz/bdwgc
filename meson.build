@@ -1,6 +1,6 @@
 project('bdwgc', 'c', version: '7.6.8',
 	meson_version: '>=0.47.0',
-       license: 'custom')
+    license: 'custom')
 
 
 i = include_directories('include')
